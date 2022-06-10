@@ -1,0 +1,78 @@
+/* screen - b4 */
+
+.b4 {
+  background-color: var(--white);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.b4 .question-container {
+  height: 375px;
+  left: 533px;
+  position: absolute;
+  top: 324px;
+  width: 375px;
+}
+
+.b4 .question-diamond {
+  background-color: var(--lemon-yellow);
+  height: 265px;
+  left: 55px;
+  position: absolute;
+  top: 55px;
+  transform: rotate(-45deg);
+  width: 265px;
+}
+
+.b4 .question-text {
+  font-weight: 500;
+  left: 83px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 164px;
+}
+
+.b4 .no {
+  background-color: var(--flush-mahogany);
+  cursor: pointer;
+  height: 73px;
+  left: 387px;
+  position: absolute;
+  top: 752px;
+  width: 216px;
+}
+
+.b4 .place {
+  font-weight: 500;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.b4 .yes {
+  background-color: var(--emerald);
+  cursor: pointer;
+  height: 73px;
+  left: 835px;
+  position: absolute;
+  top: 752px;
+  width: 217px;
+}
+
+.b4 .yes-text {
+  font-weight: 500;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}

@@ -1,0 +1,49 @@
+/* screen - e2ay */
+
+.e2ay {
+  background-color: var(--white);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.e2ay .start-over {
+  background-color: var(--ocean-blue-pearl);
+  cursor: pointer;
+  height: 73px;
+  left: 602px;
+  position: absolute;
+  top: 752px;
+  width: 234px;
+}
+
+.e2ay .start-over-text {
+  font-weight: 500;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.e2ay .answer {
+  background-color: var(--canary);
+  height: 393px;
+  left: 387px;
+  position: absolute;
+  top: 316px;
+  width: 665px;
+}
+
+.e2ay .answer-text {
+  font-weight: 500;
+  left: 272px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 188px;
+  white-space: nowrap;
+}

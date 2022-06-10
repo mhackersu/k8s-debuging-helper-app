@@ -1,0 +1,58 @@
+/* screen - b2ay */
+
+.b2ay {
+  background-color: var(--white);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.b2ay .start-over {
+  background-color: var(--ocean-blue-pearl);
+  height: 73px;
+  left: 602px;
+  position: absolute;
+  top: 752px;
+  width: 234px;
+}
+
+.b2ay .start-over-text {
+  font-weight: 500;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.b2ay .overlap-group {
+  background-color: var(--canary);
+  height: 393px;
+  left: 387px;
+  position: absolute;
+  top: 316px;
+  width: 665px;
+}
+
+.b2ay .command {
+  background-color: var(--eerie-black);
+  height: 73px;
+  left: 50px;
+  position: relative;
+  top: 160px;
+  width: 565px;
+}
+
+.b2ay .kubectl {
+  font-weight: 500;
+  height: 73px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 565px;
+}

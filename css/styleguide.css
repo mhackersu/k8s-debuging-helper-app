@@ -1,0 +1,30 @@
+:root { 
+  --black: #000000;
+  --canary: #f4f86b6b;
+  --eerie-black: #171717;
+  --emerald: #42dc66;
+  --flush-mahogany: #d83535d9;
+  --lemon-yellow: #fff3566b;
+  --ocean-blue-pearl: #5642dc;
+  --white: #ffffff;
+ 
+  --font-size-m: 16px;
+ 
+  --font-family-3270medium: "3270Medium", Helvetica;
+  --font-family-applecoloremoji: "AppleColorEmoji", Helvetica;
+}
+.3270-medium-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-3270medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.3270-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-3270medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

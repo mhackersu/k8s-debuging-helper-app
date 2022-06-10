@@ -1,0 +1,48 @@
+/* screen - f0 */
+
+.f0 {
+  background-color: var(--white);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.f0 .start-over {
+  background-color: var(--ocean-blue-pearl);
+  cursor: pointer;
+  height: 73px;
+  left: 602px;
+  position: absolute;
+  top: 752px;
+  width: 234px;
+}
+
+.f0 .start-over-text {
+  font-weight: 500;
+  left: 82px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.f0 .answer {
+  background-color: var(--canary);
+  height: 393px;
+  left: 387px;
+  position: absolute;
+  top: 316px;
+  width: 665px;
+}
+
+.f0 .answer-text {
+  font-weight: 500;
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 173px;
+}

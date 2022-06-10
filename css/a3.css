@@ -1,0 +1,78 @@
+/* screen - a3 */
+
+.a3 {
+  background-color: var(--white);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.a3 .question-container {
+  height: 375px;
+  left: 533px;
+  position: absolute;
+  top: 324px;
+  width: 375px;
+}
+
+.a3 .question-diamond {
+  background-color: var(--lemon-yellow);
+  height: 265px;
+  left: 55px;
+  position: absolute;
+  top: 55px;
+  transform: rotate(-45deg);
+  width: 265px;
+}
+
+.a3 .question-text {
+  font-weight: 500;
+  left: 44px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 170px;
+}
+
+.a3 .no {
+  background-color: var(--flush-mahogany);
+  cursor: pointer;
+  height: 73px;
+  left: 387px;
+  position: absolute;
+  top: 752px;
+  width: 216px;
+}
+
+.a3 .place {
+  font-weight: 500;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.a3 .yes {
+  background-color: var(--emerald);
+  cursor: pointer;
+  height: 73px;
+  left: 835px;
+  position: absolute;
+  top: 752px;
+  width: 217px;
+}
+
+.a3 .yes-text {
+  font-weight: 500;
+  left: 95px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}

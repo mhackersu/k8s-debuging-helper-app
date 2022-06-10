@@ -1,0 +1,49 @@
+/* screen - g2an */
+
+.g2an {
+  background-color: var(--white);
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.g2an .start-over {
+  background-color: var(--ocean-blue-pearl);
+  cursor: pointer;
+  height: 73px;
+  left: 602px;
+  position: absolute;
+  top: 752px;
+  width: 234px;
+}
+
+.g2an .start-over-text {
+  font-weight: 500;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.g2an .answer {
+  background-color: var(--canary);
+  height: 393px;
+  left: 387px;
+  position: absolute;
+  top: 316px;
+  width: 665px;
+}
+
+.g2an .answer-text {
+  font-weight: 500;
+  left: 109px;
+  letter-spacing: 0;
+  line-height: 17px;
+  position: absolute;
+  text-align: center;
+  top: 188px;
+  white-space: nowrap;
+}
