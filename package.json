@@ -1,0 +1,25 @@
+{
+  "name": "k8s-debuging-routine-app",
+  "version": "1.0.0",
+  "description": "Interactive flow-chart to debug k8s",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhackersu/k8s-debuging-routine-app.git"
+  },
+  "keywords": [
+    "k8s",
+    "debugging",
+    "flowchart",
+    "interactive"
+  ],
+  "author": "Mike Hacker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhackersu/k8s-debuging-routine-app/issues"
+  },
+  "homepage": "https://github.com/mhackersu/k8s-debuging-routine-app#readme"
+}
