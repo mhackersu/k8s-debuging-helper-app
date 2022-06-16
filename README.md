@@ -8,3 +8,6 @@ Install NPM NodeMON and LiveReload
 # Dev Server
 ` nodemon main.js`
 `localhost:3000/a0.html`
+
+# Credits
+- The initial logic for this application was inspired from [this](https://learnk8s.io/troubleshooting-deployments) flowchart created by Learnk8s.io 
